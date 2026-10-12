@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jpvanhal/inflection/commit/88eefaacf7d0caaa701af7c8ab2d0ab3f17086f1",
       "git:hexsha": "88eefaacf7d0caaa701af7c8ab2d0ab3f17086f1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jpvanhal/inflection/commit/7a3c998bf702dfc44bd7a5dd270fe5300a5612cb",
