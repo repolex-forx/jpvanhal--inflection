@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "jpvanhal",
+  "repo": "inflection",
+  "versions": [
+    {
+      "commit": "88eefaacf7d0caaa701af7c8ab2d0ab3f17086f1",
+      "parsed_at": "2026-10-12T20:42:29.331939+00:00",
+      "filetree": "filetree/88eefaacf7d0caaa701af7c8ab2d0ab3f17086f1.nq.gz",
+      "blobs": [
+        "blob/0fe0fe1d181467b1001f4a432bff15e1ca3f9ae8.nq.gz",
+        "blob/eb7c289273aff46aca88db7c3e38873590284e48.nq.gz",
+        "blob/a6dce86a7a3154caf9d191a162fd387626c6caaa.nq.gz",
+        "blob/09a346ca5bbe97b6e57c53ee19957d254337aea1.nq.gz",
+        "blob/66ddafdbe32835512fc4222f56e4f472fa0f2c6b.nq.gz",
+        "blob/7424ff6b2b8a24650c0eabc799c2cf85255cf975.nq.gz",
+        "blob/38558bf3772264eefb5473229510501d347c7d5b.nq.gz",
+        "blob/f97550317ff19f282e97409b39740afdf8707830.nq.gz",
+        "blob/48f8de6a8e80669368bad0ad8e2d6233c1f2d029.nq.gz",
+        "blob/f1e64a3d2117ef4baca2afa040f622bd91fa85e9.nq.gz",
+        "blob/353e029dabc81c1c255e09f943d190f5f53a4a31.nq.gz",
+        "blob/c85001d31d2635defe693bd06d8b23b9c8dad844.nq.gz",
+        "blob/ac449972a9f366486e1018d160de4460362ac6b8.nq.gz",
+        "blob/810868e516aeca2e9978995b5e74a410666f1804.nq.gz",
+        "blob/ffac5ce22e60816f18267d742455e4936b6d1c1a.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/74c7482792e866fe4b47ff9d61b8007474f8c645.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
